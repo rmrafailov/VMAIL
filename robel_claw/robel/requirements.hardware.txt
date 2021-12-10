@@ -1,0 +1,2 @@
+git+https://github.com/ROBOTIS-GIT/DynamixelSDK.git#subdirectory=python
+openvr==1.3.2201
